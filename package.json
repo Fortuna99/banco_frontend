@@ -1,0 +1,24 @@
+{
+  "name": "banco_frontend",
+  "version": "1.0.0",
+  "description": "Proyecto banco",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortuna99/banco_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fortuna99/banco_frontend/issues"
+  },
+  "homepage": "https://github.com/Fortuna99/banco_frontend#readme"
+}

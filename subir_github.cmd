@@ -1,4 +1,4 @@
 git add .
-git commit -m "copia de seguridad"
+git commit -m "Migrado proyecto a TypeScript"
 git push origin master
 pause
